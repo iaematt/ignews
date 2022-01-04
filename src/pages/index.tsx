@@ -17,7 +17,7 @@ export default function Home({ product }: HomeProps) {
   return (
     <>
       <Head>
-        <title>ig.news | página inicial</title>
+        <title>ig.neeews | página inicial</title>
       </Head>
 
       <main className={styles.contentContainer}>
